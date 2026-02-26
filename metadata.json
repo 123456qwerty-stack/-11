@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Planet",
+  "description": "A 3D interactive planet visualization controlled by hand gestures using MediaPipe and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
